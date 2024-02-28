@@ -80,7 +80,7 @@ Use These Keywords To Setup Custom File Name
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- Anime Sprizen" -metadata author="AnimeSprizen" -metadata:s:s title="Subtitled By :- Anime Sprizen" -metadata:s:a title="By :- Anime Sprizen" -metadata:s:v title="By:- Anime Sprizen" </code>
 
 
-    PROGRESS_BAR = """\n
+    PROGRESS_BAR = """
 <b>📁 Size</b> : {1} | {2}
 <b>⏳️ Done</b> : {0}%
 <b>🚀 Speed</b> : {3}/s
