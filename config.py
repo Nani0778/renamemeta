@@ -48,7 +48,7 @@ Use These Keywords To Setup Custom File Name
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
-    ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='https://t.me/Sasta_autorename_bot'>Sasta Auto Rename ⚡</a>
+    ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='http://t.me/auto_metadata_Renamebot'>Metadata + Auto Rename</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
@@ -70,6 +70,15 @@ Use These Keywords To Setup Custom File Name
 ⦿ /set_caption - Use This Command To Set Your Caption
 ⦿ /see_caption - Use This Command To See Your Caption
 ⦿ /del_caption - Use This Command To Delete Your Caption"""
+
+
+    SEND_METADATA = """
+❪ SET CUSTOM METADATA ❫
+
+☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
+
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- Anime Sprizen" -metadata author="AnimeSprizen" -metadata:s:s title="Subtitled By :- Anime Sprizen" -metadata:s:a title="By :- Anime Sprizen" -metadata:s:v title="By:- Anime Sprizen" </code>
+
 
     PROGRESS_BAR = """\n
 <b>📁 Size</b> : {1} | {2}
