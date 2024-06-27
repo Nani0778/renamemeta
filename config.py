@@ -72,14 +72,7 @@ Use These Keywords To Setup Custom File Name
 ⦿ /del_caption - Use This Command To Delete Your Caption"""
 
 
-    SEND_METADATA = """
-❪ SET CUSTOM METADATA ❫
-
-☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
-
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- Anime Sprizen" -metadata author="AnimeSprizen" -metadata:s:s title="Subtitled By :- Anime Sprizen" -metadata:s:a title="By :- Anime Sprizen" -metadata:s:v title="By:- Anime Sprizen" </code>
-
-
+  
         PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
 ┣⪼ 🗃️ Sɪᴢᴇ: {1} | {2}
