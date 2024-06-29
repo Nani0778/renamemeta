@@ -236,7 +236,7 @@ async def auto_rename_files(client, message):
         if ph_path:
             Image.open(ph_path).convert("RGB").save(ph_path)
             img = Image.open(ph_path)
-            img.resize((320, 320))
+            img.resize((1280, 720))
             img.save(ph_path, "JPEG")    
         
 
