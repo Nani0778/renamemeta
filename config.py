@@ -73,7 +73,7 @@ Use These Keywords To Setup Custom File Name
 
 
   
-        PROGRESS_BAR = """<b>\n
+    PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
 ┣⪼ 🗃️ Sɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
